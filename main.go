@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/dush-t/helmAPI/api"
+	"github.com/dush-t/helmapi/api"
 )
 
 func main() {

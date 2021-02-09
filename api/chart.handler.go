@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/dush-t/helmAPI/client"
+	"github.com/dush-t/helmapi/client"
 )
 
 // InstallChartHandler serves requests at /install

@@ -1,3 +1,3 @@
-module github.com/dush-t/helmAPI
+module github.com/dush-t/helmapi
 
 go 1.15

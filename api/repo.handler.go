@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/dush-t/helmAPI/client"
+	"github.com/dush-t/helmapi/client"
 )
 
 // AddRepoHandler serves requests at /repo/add
